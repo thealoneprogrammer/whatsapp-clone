@@ -64,6 +64,7 @@ Verify the deployment by navigating to your server address in your preferred bro
 ![login](https://user-images.githubusercontent.com/38497682/99902368-634b2700-2ce3-11eb-85da-2def830354ba.png)
 ![chat-list](https://user-images.githubusercontent.com/38497682/99902371-67774480-2ce3-11eb-9ea5-1a0641f77e4d.png)
 ![chat](https://user-images.githubusercontent.com/38497682/99902374-69d99e80-2ce3-11eb-8421-ad8826a424c0.png)
+![Desktop-1606043991184](https://user-images.githubusercontent.com/38497682/99902502-50852200-2ce4-11eb-868f-35e76ad1bdc1.gif)
 
 
 ### Todos
