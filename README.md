@@ -14,11 +14,11 @@ Whatsapp Clone is a progressive web application that clones the whatsapp web, wh
 
 Whatsapp Web Clone uses a number of open source projects and other services to work properly:
 
-* VueJs - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-* Vuex - Centralized State Management for Vue.js.
-* TypeScript - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-* Vuetify - Material Component Framework for Vue
-* Cloud Firestore - Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
+* [VueJs](https://github.com/vuejs/vue) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+* [Vuex](https://github.com/vuejs/vuex) - Centralized State Management for Vue.js.
+* [TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+* [Vuetify](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue
+* [Cloud Firestore](https://firebase.google.com/) - Cloud Firestore is a NoSQL document database that lets you easily store, sync, and query data for your mobile and web apps - at global scale. 
 
 
 ### Installation
