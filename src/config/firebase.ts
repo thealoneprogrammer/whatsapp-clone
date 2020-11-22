@@ -1,13 +1,13 @@
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDBULBVf2tVc69sSBTgU2d0GFeT9XwP-ds",
-  authDomain: "whatsgram-1dc4e.firebaseapp.com",
-  databaseURL: "https://whatsgram-1dc4e.firebaseio.com",
-  projectId: "whatsgram-1dc4e",
-  storageBucket: "whatsgram-1dc4e.appspot.com",
-  messagingSenderId: "417196548874",
-  appId: "1:417196548874:web:61c47edff7f2fc819890f3",
-  measurementId: "G-96NR8DT4NB",
+  apiKey: process.env.FIREBASE_API_KEY,
+  authDomain: process.env.FIREBASE_AUTH_DOMAIN,
+  databaseURL: process.env.FIREBASE_DATABASE_URL,
+  projectId: process.env.FIREBASE_PROJECT_ID,
+  storageBucket: process.env.FIREBASE_PROJECT_ID,
+  messagingSenderId: process.env.FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.FIREBASE_APP_ID,
+  measurementId: process.env.FIREBASE_MEASUREMENT_ID,
 };
 
 export default firebaseConfig;
