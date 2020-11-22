@@ -5,8 +5,6 @@ node_modules
 # firebase config
 firebase.json
 .firebaserc
-/src/config/firebase.ts
-
 
 # local env files
 .env.local
