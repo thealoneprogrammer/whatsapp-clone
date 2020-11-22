@@ -1,6 +1,4 @@
-# Whatsapp Web Clone
-
-<p style="text-align: center;"><img src="https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif" alt="" width="200px"/></p>
+<p align="center"><img src="https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif" alt="" width="400px"/></p>
 
 This repository clones the whatsapp web, that created for one-to-one messaging using VueJs, Vuex and TypeScript and Firebase firestore.
 
