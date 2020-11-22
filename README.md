@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.pinimg.com/originals/e3/1b/75/e31b752875679b64fce009922f9f0dda.gif" alt="" width="400px"/></p>
 
-Whatsapp Clone is a progressive web application that clones the whatsapp web, whc=ich is created for one-to-one messaging using VueJs, Vuex and TypeScript and Firebase firestore.
+Whatsapp Clone is a progressive web application that clones the whatsapp web, which is created for one-to-one messaging using VueJs, Vuex and TypeScript and Firebase firestore.
 
 ## [Demo](https://whatsgram-1dc4e.web.app/)
 
