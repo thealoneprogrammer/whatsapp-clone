@@ -92,7 +92,7 @@ export default {
 
 .sidebar__chats {
   flex: 1;
-  /* overflow: scroll; */
+  overflow-y: scroll;
   background-color: white;
 }
 
