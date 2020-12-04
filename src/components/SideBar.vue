@@ -94,6 +94,7 @@ export default {
   flex: 1;
   overflow-y: scroll;
   background-color: white;
+  height: 79%;
 }
 
 .dropdown {
