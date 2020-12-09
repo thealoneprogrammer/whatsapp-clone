@@ -48,11 +48,6 @@ yarn lint
 
 ### Development
 
-Want to contribute? Great!
-
-Follow the instalation steps and do not forget to add your local firebase configurations.
-Make a change in your file and commit it and give me the pull request!
-
 Verify the deployment by navigating to your server address in your preferred browser.
 
 ```sh
