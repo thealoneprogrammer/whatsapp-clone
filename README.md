@@ -65,6 +65,6 @@ Verify the deployment by navigating to your server address in your preferred bro
 ### Todos
 
  - Enable group Chat
- - Add Night Mode
+ - Add Dark Mode
  - Many more...
 
